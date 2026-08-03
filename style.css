@@ -415,7 +415,7 @@ section{padding-block:88px}
 /* ============ RESPONSIVE ============ */
 @media (max-width:980px){
   .hero-inner{grid-template-columns:1fr; padding-top:44px}
-  .hero-portrait{order:-1; max-width:320px; margin-inline:auto; margin-bottom:12px}
+  .hero-portrait{max-width:320px; margin-inline:auto; margin-bottom:12px}
   .hero-copy{text-align:center}
   .hero-sub{margin-inline:auto}
   .hero-ctas{justify-content:center}
